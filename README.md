@@ -65,7 +65,7 @@ Develop a robust system for dysarthric speech recognition that overcomes challen
 - **Confusion Matrix**: Visualization of classification errors and strengths.
 
 ## Results
-The developed system demonstrates significant improvements in dysarthric speech recognition accuracy compared to traditional ASR systems. Detailed performance metrics and visualizations are available in the results directory.
+The developed system demonstrates significant improvements in dysarthric speech recognition accuracy compared to traditional ASR systems. Detailed performance metrics and visualizations are available in the Dysarthric-Speech-Recognition-Report.
 
 ## Contributors
 - **Madhav N**: [madhavnarayanan2004@gmail.com](mailto:madhavnarayanan2004@gmail.com)
